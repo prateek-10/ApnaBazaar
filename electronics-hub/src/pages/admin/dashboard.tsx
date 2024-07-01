@@ -23,7 +23,7 @@ const Dashboard = () => {
           <FaRegBell />
           <img src={userImg} alt="User" />
         </div>
-
+  <div>User Image</div>
         <section className="widget-container">
           <WidgetItem
             percent={40}
